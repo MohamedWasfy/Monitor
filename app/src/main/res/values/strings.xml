@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Monitor</string>
+    <string name="bluetooth">Bluetooth</string>
+    <string name="connect">Connect</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="welcome">WELCOME</string>
+    <string name="paired_devices">Paired Devices</string>
+    <string name="next">Next</string>
+    <string name="pitch">Pitch</string>
+    <string name="roll">Roll</string>
+    <string name="yaw">Yaw</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="title_activity_last">Last</string>
+</resources>
